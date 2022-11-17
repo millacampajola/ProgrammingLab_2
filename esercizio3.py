@@ -10,4 +10,4 @@ def sum_csv(file_name):
             
         somma = sum(values)
     return somma
-    
+
