@@ -8,6 +8,6 @@ def sum_csv(file_name):
             value = elements[1]
             values.append(float(value))
             
-        somma = sum(values)
-    return somma
+        sum(values)
+    return sum(values)
 
